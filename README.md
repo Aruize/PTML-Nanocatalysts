@@ -5,7 +5,7 @@ Authors and affiliations:
 
 Andrea Ruiz-Escudero,a,b Sonia Arrasate,c and Humberto González-Díaz,c,d*
 
-a. Department of Computer Science and Information Technologies, Faculty of Computer Science, CITIC-Research Centre of Information and Communication Technologies, University of A Coruña, Campus Elviña s/n, 15071, A Coruña, Spain.
+a. Department of Computer Science and Information Technologies, Faculty of Computer Science, University of A Coruña, Campus Elviña, 15071, A Coruña, Spain.
 
 b. IKERDATA S.L., ZITEK, University of Basque Country UPVEHU, Rectorate Building, 48940 Leioa, Spain.
 
