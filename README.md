@@ -29,4 +29,4 @@ S.A.: Conceptualization, Formal Analysis, Funding acquisition, Investigation, Me
 H.G.D.: Conceptualization, Data curation, Formal Analysis, Funding acquisition, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – review & editing.
 
 # Funding
-The authors acknowledge financial support from IKERDATA S.L. INVESTIGO program, funded by LANBIDE and European Commission, NextGenerationEU, 2022-2024, Grant PID2019- 104148GB-I00 funded by MCIN/AEI/ 10.13039/501100011033, and Grants ELKARTEK 2022 (KK-2022/00032), 2022 - 2023, and IT1558-22, 2022-2025, funded by Basque Government/Eusko Jaurlaritza.
+The authors acknowledge financial support from IKERDATA S.L. INVESTIGO program, funded by LANBIDE and European Commission, NextGenerationEU, 2022-2024, Grant PID2019- 104148GB-I00 funded by MCIN/AEI/ 10.13039/501100011033, Grants ELKARTEK 2022 (KK-2022/00032), 2022 - 2023, and IT1558-22, 2022-2025, funded by Basque Government/Eusko Jaurlaritza.
