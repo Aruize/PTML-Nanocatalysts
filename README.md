@@ -14,12 +14,6 @@ d. IKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain
 
 *Correspondence: humberto.gonzalezdiaz@ehu.eus
 
-# Supporting Information
-Supporting information files contain the following information:
-MLP model file contains the ANN model in c trained and validated in this paper with the input xls file.
-Supporting Info file SI01.xlsx contains the raw data, PT operators of the different partitions and the results obtained with the different MLR and ANN models.
-Supporting info file SI02.docx contains the description of the symbols of the Molecular descriptors (Dk), functional variables (Vk) and condition/labelling variables (cj) used in the database, along with Statistical results of the MLR models.
-
 # Author Contributions
 A.R.E.: Data curation, Formal Analysis, Investigation, Methodology, Resources, Software, Validation, Visualization, Writing – original draft, Writing – review & editing.
 
